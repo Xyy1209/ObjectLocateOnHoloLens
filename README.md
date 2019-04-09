@@ -1,2 +1,2 @@
 # ObjectLocateOnHoloLens
-Windows Machine Learning;Tiny YOLO;Unity;Holo
+Windows Machine Learning;Tiny YOLO;Unity;HoloLens;
