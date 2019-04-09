@@ -1,2 +1,4 @@
 # ObjectLocateOnHoloLens
-Windows Machine Learning;Tiny YOLO;Unity;HoloLens;
+KeyWord:Windows Machine Learning;Tiny YOLO;Unity;HoloLens;
+
+Windows Machine Learning（简称WindowsML）平台可以使用户集成已训练好的机器学习模型至Windows应用中，该平台可在Windows设备上本地得对训练好的模型进行评估，避免了传统客户端/服务器模式下的连通、带宽和数据隐私问题。在WindowsML平台的基础上，基于HoloLens设备,运用轻量且高效的SqueezeNet模型，与空间映射组件相结合，经过加载模型、加载图片、绑定输入输出和模型评估四大步骤，实现对真实环境中物体的实时识别，并将得分最高的识别结果分别以文本和语音的形式呈现，使用户佩戴HoloLens后便可熟知场景中的已有物体。
